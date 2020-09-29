@@ -2,3 +2,5 @@
 1. Quick_Sort algorithm 
 
 1.1 Randomized Quick Sort
+
+2. Counting Sort
