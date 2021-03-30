@@ -1,6 +1,6 @@
 ''' Quick Sort Algorithm
 
-    this algorithm orders an unordered list of elements by picking a pivot
+    this algorithm orders an unordered  list of elements by picking a pivot
     element within the list and compare each and every element within the
     list to break the original list into 2 lists, larger than pivot and
     less than pivot, this runs recursively until the smallest list is 1
