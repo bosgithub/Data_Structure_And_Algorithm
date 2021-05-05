@@ -1,5 +1,7 @@
 # Data_Structure_And_Algorithm
-1. Quick_Sort algorithm 
+
+# Sorting Algorithms
+1. Quick Sort algorithm 
 
 1.1 Randomized Quick Sort
 
